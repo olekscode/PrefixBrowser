@@ -11,3 +11,9 @@ Metacello new
   repository: 'github://olekscode/PrefixBrowser/src';
   load.
 ```
+
+## How to use it?
+
+```Smalltalk
+PrefixBrowser new openWithSpec.
+```
